@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @propking123
-- 👀 I’m interested in python, html, css and javascript
+- 👀 I’m interested in python, html, css, javascript, php and c# 
 - 🌱 I’m currently learning all of the codes i mensioned
 
 <!---
